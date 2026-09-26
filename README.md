@@ -4,6 +4,18 @@ A comprehensive technical study and vulnerability analysis evaluating the cybers
 
 ---
 
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Core Vulnerability Taxonomy](#core-vulnerability-taxonomy)
+- [Research Focus Areas](#research-focus-areas)
+- [Defense & Resilient Architecture Strategies](#defense--resilient-architecture-strategies)
+- [Repository Artifacts](#repository-artifacts)
+- [Primary References & Deliverables](#primary-references--deliverables)
+- [Author](#author)
+
+---
+
 ## Executive Summary
 
 Civilian Global Navigation Satellite System (GNSS) signals—including GPS (USA), GLONASS (Russia), Galileo (EU), and BeiDou (China)—are broadcast without cryptographic authentication. Arriving at Earth receivers with an extremely low signal power level of approximately **$-130\text{ dBm}$** (billions of times weaker than standard Wi-Fi), civilian satellite positioning signals are inherently susceptible to radio-frequency (RF) jamming, intentional replay, and adversarial spoofing attacks.
